@@ -1,2 +1,2 @@
 # WhatsApp-Automation
-Automating whatsapp to send messages
+Automating whatsapp to send messages using Python
